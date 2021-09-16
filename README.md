@@ -1,2 +1,3 @@
-# web_scraper_python
-A web scraper in python to scrape google search results along with their urls and save it in csv file
+# Web Scraper 
+A Python script which scrapes Google search results and saves the titles, descriptions and their urls in an easily readable CSV file
+
